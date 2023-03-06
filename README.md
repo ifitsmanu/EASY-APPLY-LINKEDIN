@@ -1,1 +1,3 @@
 # EASY-APPLY-LINKEDIN
+
+<p> This Python code uses the Selenium web automation library to apply for multiple job listings on LinkedIn. It first navigates to a job search page and signs into a LinkedIn account using the provided email and password. It then clicks through multiple pages of job listings and applies to each one with the "Easy Apply" feature. If an additional questionnaire is required for a job, the code fills out the necessary information and submits the application. The code also closes any pop-up windows that may appear during the application process. This script is intended to automate the job application process on LinkedIn for multiple job listings, saving the user time and effort. </p>
